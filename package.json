@@ -1,0 +1,19 @@
+{
+  "name": "cctv",
+  "version": "1.0.0",
+  "main": "cctv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-media-server": "^2.7.0",
+    "node-onvif": "^0.1.7",
+    "socket.io": "^4.7.5",
+    "websocket": "^1.0.35"
+  }
+}
